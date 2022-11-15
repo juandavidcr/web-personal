@@ -1,0 +1,10 @@
+.img-background-canva{
+    background-image: url('./img/patterns.png');
+    background-repeat: repeat;
+    background-size: cover;
+    opacity: 0.9;
+    height: 100%;
+}
+.banner{
+    position:relative; top:1rem;margin-left: 10%; margin-right:10%;
+}
